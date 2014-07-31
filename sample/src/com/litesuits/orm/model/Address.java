@@ -4,7 +4,7 @@ import com.litesuits.orm.db.annotation.*;
 import com.litesuits.orm.db.annotation.PrimaryKey.AssignType;
 
 /**
- * 一个 {@link Man}可以有多个地址
+ * 一个 {@link Man}可以有多个地址hjy test
  * 
  * @author MaTianyu
  * 2014-3-7上午10:53:09
